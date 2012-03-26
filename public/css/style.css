@@ -1,0 +1,9 @@
+html {
+  border-top: 6px solid black;
+}
+article {
+  text-align: center;
+}
+p.subnote {
+  font-size:80%;
+}
